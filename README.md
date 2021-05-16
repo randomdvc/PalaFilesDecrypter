@@ -1,2 +1,2 @@
 # FileDecrypter
-An Application to decrypt .pala files
+An Application to decrypt Palafiles
